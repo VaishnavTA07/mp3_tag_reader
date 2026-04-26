@@ -24,16 +24,6 @@ This project helps in understanding file handling, binary data parsing, and work
 
 ---
 
-## 📁 Project Structure
-MP3_tag_reader/
-│
-├── src/               # Source code files
-├── include/           # Header files
-├── main.c / main.cpp  # Entry point
-├── Makefile           # Build configuration
-└── README.md          # Documentation
-
----
 
 ## 🚀 How to Run
 
